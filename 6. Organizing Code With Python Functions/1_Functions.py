@@ -1,4 +1,4 @@
-#Function & global variables
+#Function 
 
 db1=["Ali", "Hamza", "Bilal"]
 db2=["Sahid", "Babar"]
