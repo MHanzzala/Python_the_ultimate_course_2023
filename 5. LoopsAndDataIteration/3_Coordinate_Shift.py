@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
- 
-"""
 
 #4px x 4px
 # 16px x 16px 

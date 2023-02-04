@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
 
  
 shoppingCart = ['Oranges', 'Milk', 'Almonds']

@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
- 
-"""
- 
+
         
 # 0 --- 100
      

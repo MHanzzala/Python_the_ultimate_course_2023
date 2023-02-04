@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
 
 Name = input("Enter Your Name:")
 Age = input("Enter Your Age:")

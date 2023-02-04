@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 21 21:04:35 2022
 
-@author: Hamsho
-"""
  
 shapes = ["Square", "Circle","Triangle"]
 centers = [ (10,10), (50,50),(100,100)]

@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
- 
-"""
 
 def pwr2(num):
     pw2= num*num
