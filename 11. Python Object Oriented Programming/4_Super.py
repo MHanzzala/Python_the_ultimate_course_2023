@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
- 
-"""
+
 
 class employee :
     
