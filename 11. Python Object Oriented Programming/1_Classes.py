@@ -12,14 +12,14 @@ class motor:
     def changeSpeed(self):
         print("Speed Changed")
     
-    def changeRotationDir(self):
-        print("Dir Changed")
+    def changeDirections(self):
+        print("Direction Changed")
 
 
 
 fan = motor()
-
-fan.turnON()
+fan.turnOFF()
 
 washingMachine = motor()
 washingMachine.changeSpeed()
+
