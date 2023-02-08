@@ -1,4 +1,3 @@
-
 class motor:
     
     def __init__(self, startButton, stopButton, changeDir, changeSpeed):
