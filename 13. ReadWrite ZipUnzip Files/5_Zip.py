@@ -1,5 +1,5 @@
 
 from zipfile import ZipFile
 
-with ZipFile('ZippedFiles.zip', 'w') as zip:
-    zip.write("New Folder")
+with ZipFile('zip_text_2.zip', 'w') as zip:
+    zip.write("zip_text")
