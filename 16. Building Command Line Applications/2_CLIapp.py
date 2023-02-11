@@ -1,7 +1,7 @@
 import argparse
 
 
-my_parser = argparse.ArgumentParser(prog="app", fromfile_prefix_chars='@',
+my_parser = argparse.ArgumentParser(prog="app",
                                     description='Returns the Addition, multiplication, division and subtraction of any two numbers')
 
 my_parser.add_argument('arg1', help='The First Entry')
