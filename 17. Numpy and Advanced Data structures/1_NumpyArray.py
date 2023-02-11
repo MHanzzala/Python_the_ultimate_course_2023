@@ -1,11 +1,8 @@
 import numpy as np
 
-arr = np.array([5,10,15,20,25])
-l = [5,10,15,20,25]
- 
-
+arr = np.array([5, 10, 15, 20, 25])
+l = [5, 10, 15, 20, 25]
 l = np.array(l)
- 
 
 arr = np.zeros(5)
 print(arr)
@@ -15,7 +12,6 @@ print(arr)
 arr = np.arange(22)
 print(arr)
 
-arr = np.arange(0,10, 3, np.int32)
+arr = np.arange(0, 10, 3, np.int32)
 print(type(arr[0]))
 print(arr)
-

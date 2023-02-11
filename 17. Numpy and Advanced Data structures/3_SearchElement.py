@@ -1,6 +1,6 @@
 
 import numpy as np
 
-arr = np.array(["john","mrhamsho","jack","mrhamsho"])
-index= np.where(arr=="mrhamsho")
+arr = np.array(["hanzala", "bilal", "hamza", "bilal"])
+index = np.where(arr == "bilal")
 print(index[0][1])
